@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/8762f7b1-6afe-4659-9079-d3ccaea59e66)
+
+![image](https://github.com/user-attachments/assets/314876fd-0a3c-4018-a34f-ef75fb964f6e)
+
 # FilmDrop
 FilmDrop - A sleek, ad-free movie library web app with high-quality downloads, trailers, and easy sharing.
 
