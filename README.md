@@ -18,6 +18,8 @@ FilmDrop is a sleek, modern movie library web app designed to give users **cinem
 - Preview trailers directly in the app.
 - Share movies easily via system share or copied link.
 
+⚠️ Currently under development. Future updates will include APK support for Android devices and Smart TV compatibility.
+
 ---
 
 ## Features
