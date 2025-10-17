@@ -36,9 +36,12 @@ FilmDrop is a sleek, modern movie library web app designed to give users **cinem
 
 ---
 
-## Demo
+## Disclaimer
 
-Check it out live: [adamrazali.com/filmdrop/](https://adamrazali.com/filmdrop/)
+FilmDrop does not host or store any video content on its own servers.
+All movie data and streaming sources are provided by third-party platforms.
+
+FilmDrop merely aggregates publicly available information to create a convenient, ad-free viewing interface.
 
 ---
 
